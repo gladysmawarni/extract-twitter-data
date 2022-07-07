@@ -3,7 +3,7 @@
 
 
 ### Tweepy
-Tweepy is the twitter API wrapper for python, the documentation can be read [here](https://docs.tweepy.org/en/stable/)
+Tweepy is the twitter API wrapper for python, the documentation can be read [here](https://docs.tweepy.org/en/stable/).
 
 In the script `twitter_tweepy` I utilize tweepy to get:
 - Information about a user
